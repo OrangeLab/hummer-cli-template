@@ -1,0 +1,13 @@
+{
+  "name": "@hummer/cli-template-ts",
+  "version": "0.0.3",
+  "files": [
+    "*"
+  ],
+  "license": "MIT",
+  "description": "Hummer cli typescript 模板",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {}
+}

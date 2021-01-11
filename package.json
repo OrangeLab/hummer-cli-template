@@ -1,0 +1,32 @@
+{
+  "name": "@hummer/hummer-template",
+  "text": "🚀 Hummer CLI 模板工程",
+  "version": "0.0.1",
+  "description": "Hummer CLI 模板工程",
+  "author": "duanlikang <duanlikang@didiglobal.com>",
+  "scripts": {
+    "cz": "git add -A && npx git-cz",
+    "pub": "npm run clean:lock && npx lerna publish --conventional-commits && git push --tags",
+    "pub:prerelease": "npm run clean:lock && npx lerna publish --conventional-commits --cd-version=prerelease --preid=beta --npm-tag=beta  && git push --tags",
+    "clean": "lerna clean --yes && rm -rf ./packages/**/package-lock.json",
+    "clean:lock": "rm -rf ./package-lock.json && rm -rf ./packages/**/package-lock.json",
+    "bootstrap": "npm install && lerna bootstrap"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "commitizen": "^2.10.1",
+    "conventional-changelog": "^2.0.1",
+    "cz-conventional-changelog": "^2.1.0",
+    "lerna": "^3.16.1"
+  }
+}

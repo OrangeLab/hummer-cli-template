@@ -1,0 +1,53 @@
+*~
+node_modules/
+lib/
+bin/
+.idea/
+Pods/
+.gradle/
+Podfile.lock
+packages/cli-global/test/
+packages/cli-global/template/package-lock.json
+packages/cli-run/test/dist/
+.scannerwork/
+sanner.log
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+# Mac OS X Finder and whatnot
+.DS_Store
+
+## Build generated
+build/
+DerivedData/
+
+## Various settings
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+
+## Other
+*.moved-aside
+*.xcuserstate
+*.xccheckout
+
+## Obj-C/Swift specific
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+
+*.xcodeproj/xcuserdata/
+!*.xcworkspace/IDEWorkspaceChecks.plist
+!*.xcworkspace/contents.xcworkspacedata

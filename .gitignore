@@ -1,0 +1,14 @@
+node_modules
+dist
+output
+.history/
+dump.rdb
+package-lock.json
+*.log
+logs/
+coverage/
+.DS_Store
+.idea/
+yarn-error.log
+yarn.lock
+temp

@@ -1,0 +1,13 @@
+{
+  "name": "@hummer/cli-template-android",
+  "version": "0.0.4-beta.0",
+  "files": [
+    "*"
+  ],
+  "license": "MIT",
+  "description": "Hummer cli android 模板",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {}
+}

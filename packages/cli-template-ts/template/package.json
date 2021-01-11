@@ -1,0 +1,19 @@
+{
+  "name": "{{name}}",
+  "version": "1.0.0",
+  "description": "{{description}}",
+  "author": "{{author}}",
+  "scripts": {
+    "build": "hummer build",
+    "dev": "hummer dev",
+    "debug": "npm run dev & hummer debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.xiaojukeji.com:tenon/tenon-demo.git"
+  },
+  "dependencies": {
+    "@didi/hummer-front": "^0.2.3"
+  },
+  "devDependencies": {}
+}

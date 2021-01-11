@@ -1,0 +1,13 @@
+{
+  "name": "@hummer/cli-template-vue",
+  "version": "0.0.4-beta.1",
+  "files": [
+    "*"
+  ],
+  "license": "MIT",
+  "description": "Hummer cli tenon vue模板",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {}
+}
