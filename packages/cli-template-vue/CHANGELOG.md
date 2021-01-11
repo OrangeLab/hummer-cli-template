@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.0.4 (2021-01-11)
+
+**Note:** Version bump only for package @hummer/cli-template-vue
+
+
+
+
+
 ## [0.0.4-beta.1](https://git.xiaojukeji.com/tenon/cli-template/compare/v0.0.4-beta.0...v0.0.4-beta.1) (2021-01-11)
 
 **Note:** Version bump only for package @hummer/cli-template-vue
