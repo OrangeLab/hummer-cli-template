@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.5](https://github.com/hummer-home/hummer-cli-template/compare/v0.0.4...v0.0.5) (2021-01-12)
+
+**Note:** Version bump only for package @hummer/cli-template-vue
+
+
+
+
+
 ## 0.0.4 (2021-01-11)
 
 **Note:** Version bump only for package @hummer/cli-template-vue
