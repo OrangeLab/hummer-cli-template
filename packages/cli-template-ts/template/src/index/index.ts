@@ -1,4 +1,4 @@
-import {Hummer,View, Text} from '@didi/hummer-front'
+import {Hummer,View, Text} from '@hummer/hummer-front'
 class RootView extends View {
   constructor() {
     super();
