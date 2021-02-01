@@ -3,7 +3,7 @@
   "text": "🚀 Hummer CLI 模板工程",
   "version": "0.0.1",
   "description": "Hummer CLI 模板工程",
-  "author": "duanlikang <duanlikang@didiglobal.com>",
+  "author": "duanlikang",
   "scripts": {
     "cz": "git add -A && npx git-cz",
     "pub": "npm run clean:lock && npx lerna publish --conventional-commits && git push --tags",
