@@ -1,0 +1,8 @@
+node_modules
+dist
+.history/
+dump.rdb
+package-lock.json
+coverage/
+.DS_Store
+.idea

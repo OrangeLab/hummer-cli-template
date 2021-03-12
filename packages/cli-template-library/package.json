@@ -1,0 +1,13 @@
+{
+  "name": "@hummer/cli-template-library",
+  "version": "0.0.5",
+  "files": [
+    "*"
+  ],
+  "license": "MIT",
+  "description": "Hummer CLI Library 模板",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {}
+}
