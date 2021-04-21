@@ -502,7 +502,6 @@
 					"-l\"Hummer\"",
 					"-l\"SocketRocket\"",
 					"-l\"Yoga\"",
-					"-l\"YogaKit\"",
 					"-l\"icucore\"",
 					"-framework",
 					"\"CFNetwork\"",
