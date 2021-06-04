@@ -1,0 +1,13 @@
+{
+  "name": "@hummer/cli-template-react",
+  "version": "0.1.0",
+  "files": [
+    "*"
+  ],
+  "license": "MIT",
+  "description": "Hummer cli tenon react模板",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {}
+}
