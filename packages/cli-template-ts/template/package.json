@@ -13,7 +13,8 @@
     "url": "git@git.xiaojukeji.com:tenon/tenon-demo.git"
   },
   "dependencies": {
-    "@hummer/hummer-front": "^1.0.0"
+    "@hummer/hummer-front": "^1.0.7",
+    "@hummer/tenon-dev-tool": "^0.2.1"
   },
   "devDependencies": {}
 }

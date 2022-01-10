@@ -9,7 +9,7 @@
     "debug": "npm run dev & hummer debug"
   },
   "dependencies": {
-    "@hummer/tenon-vue": "^1.0.0",
+    "@hummer/tenon-vue": "^1.7.0",
     "@hummer/tenon-store": "^1.0.0"
   },
   "devDependencies": {}
