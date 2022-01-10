@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com.cnpmjs.org/OrangeLab/hummer-cli-template/compare/v0.3.1...v0.4.0) (2022-01-10)
+
+
+### Bug Fixes
+
+* **iOS:** compile error ([dbe802c](https://github.com.cnpmjs.org/OrangeLab/hummer-cli-template/commit/dbe802c5436c8379080f7ec839eda810e1172eff))
+
+
+### Features
+
+* 升级tenon-vue&hummer-front版本 ts项目新增dev-tool依赖 ([84f69ba](https://github.com.cnpmjs.org/OrangeLab/hummer-cli-template/commit/84f69ba96aa1e216ae205f9759298c7108112ee8))
+
+
+
+
+
 ## [0.3.1](https://github.com.cnpmjs.org/OrangeLab/hummer-cli-template/compare/v0.3.0...v0.3.1) (2021-09-16)
 
 **Note:** Version bump only for package @hummer/hummer-template
