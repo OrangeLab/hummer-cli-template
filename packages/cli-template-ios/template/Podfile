@@ -6,7 +6,11 @@ target 'app' do
   # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
   # use_frameworks!
 
-  pod 'Hummer', :git => 'git@github.com:didi/Hummer.git', :branch => 'master'
+
+  pod 'Hummer', :git => 'git@github.com:didi/Hummer.git', :branch => 'master', :subspecs => ["OSSYoga"]
+
+# enable hermes
+#  pod 'Hummer', :git => 'git@github.com:didi/Hummer.git', :branch => 'master', :subspecs => ["Hermes", "OSSYoga"]
 
   target 'appTests' do
     inherit! :search_paths
