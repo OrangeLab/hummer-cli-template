@@ -1,11 +1,11 @@
 {
-  "name": "@hummer/cli-template-mvp-sample",
+  "name": "@hummer/cli-template-mvp",
   "version": "0.4.0",
   "files": [
     "*"
   ],
   "license": "MIT",
-  "description": "hummer mvp-sample模板",
+  "description": "Hummer cli mvp模式 模板",
   "publishConfig": {
     "access": "public"
   },
